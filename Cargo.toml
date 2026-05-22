@@ -35,3 +35,4 @@ description = "A lightweight, keyboard-driven Terminal User Interface (TUI) for 
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # clarify the control flow
+# clarify the control flow
